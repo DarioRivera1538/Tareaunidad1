@@ -1,0 +1,8 @@
+shampoo
+desodorante
+cafe
+te
+carne
+pescado
+pollo
+
